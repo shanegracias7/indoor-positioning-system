@@ -20,7 +20,7 @@ The android studio Java code that was used to create the data collection app.
 The android studio Java code that was used to create the main app of our project.
 
 ### PPTs & Videos
-Contains all Powerpoint Presentations for semester 7 and semester 8 that were used during Project Reviews.
+Contains all Powerpoint Presentations  that were used during Project Reviews.
 All videos embedded in the PPTs have been added as well.
 
 ### Project Documentation
