@@ -2,28 +2,28 @@
 
 
 ## Description of Folders:
-1. ### LSTM-Data
+### LSTM-Data
 This contains all the accelerometer and gyroscope data that has been collected using the data collection app, and which will be used to train the LSTM models.
 It includes separate data files as csv along with the combined data files.
 
-2. ### LSTM-Models
+### LSTM-Models
 This folder contains all the LSTM models that have been trained and tested using LSTMs with the help of Tensorflow.
 They are saved as protocol buffer (.pb) files, one for Activity and the other for Activity Unit LSTM.
 
-3. ### LSTM-Notebooks
+### LSTM-Notebooks
 The Python Jupyter Notebooks that contain the code that was used to create the LSTM models.
 
-4. ### Data Collection App (Code)
+### Data Collection App (Code)
 The android studio Java code that was used to create the data collection app.
 
-5. ### Indoor Positioning System App (Code)
+### Indoor Positioning System App (Code)
 The android studio Java code that was used to create the main app of our project.
 
-6. ### PPTs & Videos
+### PPTs & Videos
 Contains all Powerpoint Presentations for semester 7 and semester 8 that were used during Project Reviews.
 All videos embedded in the PPTs have been added as well.
 
-7. ### Project Documentation
+### Project Documentation
 Contains project reports/documentations of both semester 7 and the semester 8.
 
 
