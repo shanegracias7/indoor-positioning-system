@@ -1,6 +1,6 @@
 # INDOOR POSITIONING SYSTEM
 
-## Description of Folders in CD:
+## Description of Folders:
 ### LSTM-Data
 This contains all the accelerometer and gyroscope data that has been collected using the data collection app, and which will be used to train the LSTM models.
 It includes separate data files as csv along with the combined data files.
