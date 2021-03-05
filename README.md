@@ -1,5 +1,6 @@
 # INDOOR POSITIONING SYSTEM
 
+
 ## Description of Folders:
 ### 1) LSTM-Data
 This contains all the accelerometer and gyroscope data that has been collected using the data collection app, and which will be used to train the LSTM models.
@@ -25,7 +26,8 @@ All videos embedded in the PPTs have been added as well.
 ### 7) Project Documentation
 Contains project reports/documentations of both semester 7 and the semester 8.
 
-Instructions to Use:
+
+## Instructions to Use:
 1. Copy .apk file to Android phone.
 2. Install the .apk file.
 3. Tap on screen to select current position on map.
@@ -33,7 +35,8 @@ Instructions to Use:
 5. Tap on "Directions".
 6. Follow the blue path indicated to reach your destination.
 
-Intructions to Build & Run:
+
+## Intructions to Build & Run:
 1. Open folder inside Indoor Positioning System App (Code) as an Android Studio project.
 2. Connect your phone via USB cable.
 3. Enable debugging.
