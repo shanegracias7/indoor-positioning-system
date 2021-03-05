@@ -1,28 +1,28 @@
 # INDOOR POSITIONING SYSTEM
 
-##Description of Folders in CD:
-###LSTM-Data
+## Description of Folders in CD:
+### LSTM-Data
 This contains all the accelerometer and gyroscope data that has been collected using the data collection app, and which will be used to train the LSTM models.
 It includes separate data files as csv along with the combined data files.
 
-###LSTM-Models
+### LSTM-Models
 This folder contains all the LSTM models that have been trained and tested using LSTMs with the help of Tensorflow.
 They are saved as protocol buffer (.pb) files, one for Activity and the other for Activity Unit LSTM.
 
-###LSTM-Notebooks
+### LSTM-Notebooks
 The Python Jupyter Notebooks that contain the code that was used to create the LSTM models.
 
-###Data Collection App (Code)
+### Data Collection App (Code)
 The android studio Java code that was used to create the data collection app.
 
-###Indoor Positioning System App (Code)
+### Indoor Positioning System App (Code)
 The android studio Java code that was used to create the main app of our project.
 
-###PPTs & Videos
+### PPTs & Videos
 Contains all Powerpoint Presentations for semester 7 and semester 8 that were used during Project Reviews.
 All videos embedded in the PPTs have been added as well.
 
-###Project Documentation
+### Project Documentation
 Contains project reports/documentations of both semester 7 and the semester 8.
 
 Instructions to Use:
