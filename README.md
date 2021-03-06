@@ -45,7 +45,6 @@ Contains project reports/documentations of both semester 7 and the semester 8.
 6. Click "Build & Run".
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/69889290/110186935-aa7ea300-7e0e-11eb-8ac0-54d3b9e71efc.png" width="200">
-<img src="https://user-images.githubusercontent.com/69889290/110186978-c08c6380-7e0e-11eb-8463-8da8190ec762.png" width="200">
+<img src="https://user-images.githubusercontent.com/69889290/110186935-aa7ea300-7e0e-11eb-8ac0-54d3b9e71efc.png" width="200"><img src="https://user-images.githubusercontent.com/69889290/110186978-c08c6380-7e0e-11eb-8463-8da8190ec762.png" width="200">
 
 
