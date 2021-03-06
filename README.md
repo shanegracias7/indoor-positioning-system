@@ -26,6 +26,7 @@ All videos embedded in the PPTs have been added as well.
 ### Project Documentation
 Contains project reports/documentations of both semester 7 and the semester 8.
 
+<br>
 
 ## Instructions to Use:
 1. Copy .apk file to Android phone.
@@ -35,6 +36,7 @@ Contains project reports/documentations of both semester 7 and the semester 8.
 5. Tap on "Directions".
 6. Follow the blue path indicated to reach your destination.
 
+<br>
 
 ## Intructions to Build & Run:
 1. Open folder inside Indoor Positioning System App (Code) as an Android Studio project.
@@ -43,6 +45,8 @@ Contains project reports/documentations of both semester 7 and the semester 8.
 4. File -> Sync Project with Gradle Files
 5. Install SDK corresponding to your Android version.
 6. Click "Build & Run".
+
+<br>
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/69889290/110186935-aa7ea300-7e0e-11eb-8ac0-54d3b9e71efc.png" width="200">             <img src="https://user-images.githubusercontent.com/69889290/110186978-c08c6380-7e0e-11eb-8463-8da8190ec762.png" width="200">
