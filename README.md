@@ -52,4 +52,4 @@ Contains project reports/documentations of both semester 7 and the semester 8.
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/69889290/110186935-aa7ea300-7e0e-11eb-8ac0-54d3b9e71efc.png" width="200">             <img src="https://user-images.githubusercontent.com/69889290/110186978-c08c6380-7e0e-11eb-8463-8da8190ec762.png" width="200">
 
-## [VIDEO DEMO](https://drive.google.com/file/d/1WEDI0Jt8ZPH1I-SFdTRIqrca7OstX5Io/view?usp=sharing)  | [PROJECT REPORT](https://drive.google.com/file/d/17Eri4WDYI_enL5I9tk8zML1icJx5wQo_/view?usp=sharing)
+## [VIDEO DEMO](https://drive.google.com/file/d/1WEDI0Jt8ZPH1I-SFdTRIqrca7OstX5Io/view?usp=sharing)  |  [PROJECT REPORT](https://drive.google.com/file/d/17Eri4WDYI_enL5I9tk8zML1icJx5wQo_/view?usp=sharing)
