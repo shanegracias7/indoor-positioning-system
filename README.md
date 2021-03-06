@@ -1,4 +1,5 @@
 # INDOOR POSITIONING SYSTEM
+>Machine learning based mobile application developed in android studio which uses data collected from the inertial sensors in the smartphone to locate the user. the application can be used in large indoor spaces to navigate to a specified destination using the shortest path.
 
 
 ## Description of Folders:
